@@ -1,66 +1,121 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b2e&height=180&section=header&text=&fontSize=0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:16213e&height=200&section=header&text=&fontSize=0"/>
 
-# 👋 Hey, I'm Vasily
+<a href="https://t.me/+i1v0vccaNNY0M2Iy">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&vCenter=true&random=false&width=600&lines=Python+Developer;System+Architect;AI+Products+Builder;VPN+SaaS+Founder" alt="Typing SVG" />
+</a>
 
-**Python Developer · System Architect · AI Products**
+[![Telegram](https://img.shields.io/badge/Watch_Me_Build_Live-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+i1v0vccaNNY0M2Iy)
+[![Email](https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business.nedopekin@gmail.com)
+[![NEMO VPN](https://img.shields.io/badge/NEMO_VPN-⚓_Try_Free-6366f1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nemo_vpn_bot?start=6318513424)
 
-I build production-grade systems at the intersection of **AI, infrastructure, and product**.
-From VPN SaaS serving real users to economic simulations powered by 1,000 autonomous agents.
-37 repositories. 0 bullshit.
-
-[![Telegram Channel](https://img.shields.io/badge/💬_Watch_Me_Build_Live-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+i1v0vccaNNY0M2Iy)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business.nedopekin@gmail.com)
+**🌍 Languages:** [🇬🇧 English](#-about-me) · [🇷🇺 Русский](#-обо-мне) · [🇨🇳 中文](#-关于我) · [🇸🇦 العربية](#-عني)
 
 </div>
 
 ---
 
-### 🧬 About Me
+## 🇬🇧 About Me
+
+I build **production systems** at the intersection of AI, infrastructure, and product. My code runs real businesses — from a VPN service with paying subscribers to AI simulations with 1,000 autonomous agents.
 
 ```python
 class Vasily:
+    location = "Russia 🇷🇺"
     stack = {
         "backend":  ["Python", "FastAPI", "aiogram", "SQLAlchemy", "asyncio"],
         "frontend": ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-        "data":     ["PostgreSQL", "Redis", "SQLite"],
+        "data":     ["PostgreSQL", "Redis"],
         "infra":    ["Docker", "Nginx", "Linux", "Vercel"],
-        "ai":       ["OpenRouter", "LLM orchestration", "multi-agent systems"],
+        "ai":       ["LLM orchestration", "multi-agent systems", "OpenRouter"],
     }
-
-    def __init__(self):
-        self.coffee = float("inf")
-        self.motto = "Ship fast. Break nothing. Iterate faster."
-
-    def current_focus(self):
-        return ["AI-powered SaaS products", "Autonomous agent systems", "VPN infrastructure"]
+    focus = ["AI-powered SaaS", "Telegram ecosystem", "VPN infrastructure"]
 ```
+
+### 📊 By The Numbers
+
+| Metric | Value |
+|--------|-------|
+| 📦 Repositories | **38** (22 Python, 7 TypeScript, 3 JavaScript, 2 HTML) |
+| 💻 Total code | **118 MB+** across all projects |
+| 🔥 Commits (last year) | **168+** |
+| 🤖 AI agents in production | **1,000** (economy simulator) |
+| 🌐 VPN users served | **Real paying subscribers** |
+| 💳 Payment integrations | CryptoBot, Platega |
+| 🏗️ Production systems | **6+** Telegram bots in active use |
+| 🌍 Languages supported | EN, RU, ZH, AR |
 
 ---
 
-### 🚀 Flagship Projects
+## 🇷🇺 Обо мне
+
+Строю **продакшн-системы** на стыке AI, инфраструктуры и продукта. Мой код работает в реальных бизнесах — от VPN-сервиса с платными подписчиками до ИИ-симуляций с 1000 автономными агентами.
+
+**38 репозиториев · 118 МБ+ кода · 168+ коммитов за год**
+
+Специализация: **Python/FastAPI** бэкенд, **Telegram-боты**, AI-агенты, VPN-инфраструктура (Marzban/Xray). Пишу системы, которые зарабатывают деньги, а не просто красиво выглядят.
+
+---
+
+## 🇨🇳 关于我
+
+我在**AI、基础设施和产品的交汇处**构建生产系统。我的代码运行着真实的业务——从拥有付费用户的VPN服务到具有1000个自主AI代理的模拟系统。
+
+**38个仓库 · 118 MB+代码 · 每年168+次提交**
+
+---
+
+## 🇸🇦 عني
+
+أبني **أنظمة إنتاجية** عند تقاطع الذكاء الاصطناعي والبنية التحتية والمنتجات.
+
+---
+
+## 🚀 Flagship Projects
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🏛 [AI Economy Simulator](https://github.com/shekelstrong/ai-economy-simulator)
-`Python` `FastAPI` `Next.js` `PostgreSQL` `Redis`
+**1,000 autonomous AI agents** simulating a real-time economy. No scripts — agents independently trade, create institutions, and adapt to market conditions.
 
-**1,000 autonomous AI agents** simulate a real-time economy. No scripts — agents independently trade, form institutions, and adapt to market conditions. Powered by 5 AI models with role-based intelligence (workers, entrepreneurs, investors, bankers, government, researchers).
+`Python` `FastAPI` `Next.js` `PostgreSQL` `Redis` `5 AI Models`
 
-🌐 Public · Multilingual (EN/ZH/AR/RU)
+🌐 Public · 🇬🇧🇨🇳🇸🇦🇷🇺 Multilingual
 
 </td>
 <td width="50%">
 
 ### 📊 [Nemo Tracker](https://github.com/shekelstrong/nemo-tracker)
-`Python` `FastAPI` `PostgreSQL` `Redis` `Chart.js`
+Complete **VPN business management platform** for Marzban. Analytics, billing, device tracking, reseller management, revenue forecasting, and white-label branding.
 
-Complete **VPN business management platform** for Marzban. Real-time analytics, device tracking with geolocation map, billing with USDT/RUB conversion, reseller management, revenue forecasting, churn prediction, white-label branding, and a Telegram Mini App.
+`Python` `FastAPI` `PostgreSQL` `Redis` `Chart.js` `Leaflet.js`
 
 🌐 Public · MIT License
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔒 NEMO VPN Bot
+**Production VPN service** with real subscribers. Telegram bot handles subscriptions, payments (CryptoBot + Platega), referral system, multi-server management, auto-renewal.
+
+`Python` `aiogram` `PostgreSQL` `Marzban API`
+
+🔒 Private · [Try it free →](https://t.me/nemo_vpn_bot?start=6318513424)
+
+</td>
+<td width="50%">
+
+### 🌐 [NEMO VPN Landing](https://github.com/shekelstrong/nemo-landing)
+Dark-themed, conversion-optimized landing page for VPN subscriptions. VLESS Reality branding.
+
+`Next.js` `Tailwind CSS` `Vercel`
+
+🌐 Public
 
 </td>
 </tr>
@@ -68,20 +123,22 @@ Complete **VPN business management platform** for Marzban. Real-time analytics, 
 
 ---
 
-### 🏗️ Project Ecosystem
+## 🏗️ Full Project Map
 
 <details>
-<summary><b>🔒 NEMO VPN</b> — Full-stack VPN service</summary>
+<summary><b>🔒 NEMO VPN — Full-Stack VPN Service</b></summary>
 <br>
 
-| Repo | Stack | What it does |
+| Repo | Stack | Description |
 |------|-------|-------------|
-| **vpn_bot** | Python, aiogram | Core Telegram VPN bot — subscriptions, payments (CryptoBot + Platega), referral system, multi-server management |
+| **vpn_bot** | Python, aiogram | Core bot — subscriptions, payments, referrals, multi-server |
 | **nemo-vpn-webapp** | JavaScript | Telegram Mini App for VPN management |
-| **nemo-landing** | Next.js, Tailwind | Dark-themed conversion landing page |
-| **nemo-blog** | Next.js, SSG | SEO-optimized blog on digital security & privacy |
+| **nemo-landing** | Next.js, Tailwind | Conversion landing page |
+| **nemo-blog** | Next.js, SSG | SEO blog on digital security & privacy |
 | **nemovpn-design** | React, Vite | Design system — "brutalist underground" aesthetic |
 | **nemo-team-docs** | Obsidian | Internal team knowledge base |
+
+🔗 **[Try NEMO VPN free](https://t.me/nemo_vpn_bot?start=6318513424)** — works in Russia, accepts RUB payments via card
 
 </details>
 
@@ -89,20 +146,20 @@ Complete **VPN business management platform** for Marzban. Real-time analytics, 
 <summary><b>🤖 AI & Automation</b></summary>
 <br>
 
-| Repo | Stack | What it does |
+| Repo | Stack | Description |
 |------|-------|-------------|
-| **AI-AGENCY-OPENCLAW** | TypeScript | AI agency automation platform built on OpenClaw |
-| **ai-economy-simulator** | Python, FastAPI | 1,000 autonomous AI agents simulating an economy |
+| **ai-economy-simulator** | Python, FastAPI | 1,000 AI agents simulating an economy in real-time |
+| **AI-AGENCY-OPENCLAW** | TypeScript | AI agency automation platform on OpenClaw |
 | **ai-crm-telegram** | Python | AI-powered CRM for automated Telegram sales |
-| **nexus_ai_bot** | Python ⭐1 | AI-powered Telegram assistant |
+| **nexus_ai_bot** ⭐1 | Python | AI-powered Telegram assistant |
 
 </details>
 
 <details>
-<summary><b>🛡️ AI AGENCY — Bot Factory</b></summary>
+<summary><b>🛡️ Bot Factory — Production Telegram Bots</b></summary>
 <br>
 
-A collection of production Telegram bots built with a shared architecture:
+Mass-produced bots with shared architecture:
 
 | Bot | Purpose |
 |-----|---------|
@@ -115,24 +172,62 @@ A collection of production Telegram bots built with a shared architecture:
 </details>
 
 <details>
-<summary><b>🏗️ Other Projects</b></summary>
+<summary><b>📦 More Projects</b></summary>
 <br>
 
 | Repo | Stack | Description |
 |------|-------|-------------|
-| **ermak-bot** | Python | Telegram bot project (active development) |
-| **ermak-site** / **ermak-legacy-site** | TypeScript | Web presence for Ermak project |
-| **nanobananapro** / **nano-banana-tg-bot** | Python ⭐1 | Telegram bot + backend |
+| **ermak-bot** | Python | Telegram bot (active development) |
+| **ermak-site** | TypeScript | Web presence for Ermak |
+| **nanobananapro** / **nano-banana-tg-bot** ⭐1 | Python | Telegram bot + backend |
 | **Trading** | TypeScript | Trading bot |
 | **platega-io-nedopekin** | Python | Payment integration library |
-| **nedopekin-media** | TypeScript | Media management platform |
-| **free-segment** | React, Vite | Blog design system with editorial aesthetic |
+| **nedopekin-media** | TypeScript | Media management |
+| **free-segment** | React, Vite | Blog design system |
+| **nemo-blog** | Next.js | SEO blog — [nemo-blog.vercel.app](https://nemo-blog.vercel.app) |
 
 </details>
 
 ---
 
-### ⚡ Tech Stack
+## 💼 Resume Highlights
+
+<details>
+<summary><b>📄 Open for opportunities — click to expand</b></summary>
+<br>
+
+### Experience
+
+**Founder & Developer — NEMO VPN** (2024–present)
+- Built full-stack VPN service from scratch: Telegram bot (aiogram), payment processing (CryptoBot, Platega), admin dashboard, landing page, SEO blog
+- Integrated with Marzban panel for server management, real-time analytics, device tracking
+- Handling real users with real revenue
+
+**AI Products Engineer** (2025–present)
+- Designed multi-agent AI economy simulator with 1,000 autonomous agents powered by 5 LLM models
+- Built AI CRM for automated Telegram sales
+- Created Bot Factory — production pipeline for Telegram bots with shared architecture
+- AI agency automation platform on OpenClaw
+
+### Core Skills
+- **Backend:** Python, FastAPI, asyncio, SQLAlchemy, aiogram
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Database:** PostgreSQL, Redis
+- **Infrastructure:** Docker, Nginx, Linux administration, CI/CD
+- **AI/ML:** LLM orchestration, multi-agent systems, OpenRouter API
+- **Domain:** VPN protocols (VLESS Reality), payment systems, Telegram Bot API
+
+### What I Bring
+- ✅ Ship production code, not prototypes
+- ✅ Full-stack — from infrastructure to UI
+- ✅ Business mindset — code that earns money
+- ✅ Experience with real users, real payments, real scaling challenges
+
+</details>
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -151,40 +246,51 @@ A collection of production Telegram bots built with a shared architecture:
 
 ---
 
-### 📊 GitHub Stats
+## 📈 Dynamic Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shekelstrong&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekelstrong&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shekelstrong&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekelstrong&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shekelstrong&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currLabel=58a6ff" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shekelstrong&theme=github-dark&hide_border=true&area=true&color=58a6ff&line=58a6ff&point=1f6feb" width="95%"/>
 </div>
 
 ---
 
-### 📈 What I'm Working On
+## 🐍 Contribution Snake
 
-- 🤖 **Multi-agent AI systems** — orchestrating multiple LLMs for complex tasks
-- 🔒 **VPN SaaS at scale** — real infrastructure, real users, real revenue
-- 🏭 **Bot Factory** — mass-producing Telegram bots with shared architecture
-- 🧪 **Economic simulation** — can 1,000 AI agents build a functioning economy?
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shekelstrong/shekelstrong/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shekelstrong/shekelstrong/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shekelstrong/shekelstrong/output/github-snake-dark.svg" />
+</picture>
 
 ---
 
-### 🤝 Let's Connect
-
-I'm open to collaborations on **AI products, infrastructure, and automation**. If you're building something interesting — let's talk.
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/💬_Join_My_Dev_Channel-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+i1v0vccaNNY0M2Iy)
+[![Telegram Channel](https://img.shields.io/badge/💬_Watch_Me_Build_Live-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+i1v0vccaNNY0M2Iy)
+[![NEMO VPN Bot](https://img.shields.io/badge/⚓_Try_NEMO_VPN_Free-6366f1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nemo_vpn_bot?start=6318513424)
+[![Email](https://img.shields.io/badge/📧_Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business.nedopekin@gmail.com)
 
-*Watch me build in real time — architecture decisions, code, fails and wins.*
+*Real code. Real users. Real products.*
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=shekelstrong&style=flat-square&color=58a6ff" alt="Profile Views"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/shekelstrong?style=flat-square&color=58a6ff" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=shekelstrong&style=flat-square&color=58a6ff" alt="Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/shekelstrong?style=flat-square&color=58a6ff&label=Followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/shekelstrong?style=flat-square&color=58a6ff&label=Stars"/>
 </div>
