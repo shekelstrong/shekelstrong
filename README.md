@@ -39,14 +39,6 @@ I build **production systems** at the intersection of AI, infrastructure, and pr
 
 I believe in **systems over features**. A beautiful landing page means nothing if the payment gateway fails at 3 AM. I architect for reliability first, scale second, aesthetics third. My code runs on servers I manage, with Docker containers I configured, behind Nginx I tuned. Full ownership, zero excuses.
 
-### By The Numbers
-
-- **38** repositories — 22 Python, 7 TypeScript, 3 JavaScript
-- **168+** commits in the last year
-- **6+** production Telegram bots serving real users
-- **5** AI models orchestrated in parallel
-- **4** languages supported across projects (EN, RU, ZH, AR)
-
 ---
 
 ## 🇷🇺 Русский
@@ -65,14 +57,6 @@ I believe in **systems over features**. A beautiful landing page means nothing i
 ### Мой подход
 
 Верю в **системы, а не фичи**. Красивый лендинг ничего не стоит, если платёжка падает в 3 часа ночи. Проектирую сначала для надёжности, потом для масштаба, потом для эстетики. Мой код работает на серверах, которыми управляю я, в Docker-контейнерах, которые настроил я, за Nginx, который я настроил. Полная ответственность, никаких отговорок.
-
-### Цифры
-
-- **38** репозиториев — 22 Python, 7 TypeScript, 3 JavaScript
-- **168+** коммитов за последний год
-- **6+** продакшн Telegram-ботов обслуживают реальных пользователей
-- **5** ИИ-моделей работают параллельно
-- **4** языка поддерживаются в проектах (EN, RU, ZH, AR)
 
 ---
 
@@ -93,14 +77,6 @@ I believe in **systems over features**. A beautiful landing page means nothing i
 
 我相信**系统优于功能**。一个精美的着陆页在凌晨3点支付网关崩溃时毫无意义。我的架构优先级：可靠性第一，扩展性第二，美观第三。我的代码运行在我管理的服务器上，在我配置的Docker容器中，经过我调优的Nginx之后。完全掌控，绝不推诿。
 
-### 数据概览
-
-- **38** 个仓库 — 22个 Python，7个 TypeScript，3个 JavaScript
-- **168+** 次年度提交
-- **6+** 个生产级 Telegram 机器人服务真实用户
-- **5** 个AI模型并行协作
-- **4** 种语言支持（EN、RU、ZH、AR）
-
 ---
 
 ## 🇸🇦 العربية
@@ -119,14 +95,6 @@ I believe in **systems over features**. A beautiful landing page means nothing i
 ### منهجي**
 
 أؤمن بـ **الأنظمة على الميزات**. صفحة هبوط جميلة لا قيمة لها إذا كانت بوابة الدفع تعطل في الثالثة صباحاً. أصمم أولاً للموثوقية، ثانياً للتوسع، ثالثاً للجمال. الكود الخاص بي يعمل على خوادم أديرها، في حاويات Docker أنا من أعددتها، خلف Nginx قمت بضبطه. مسؤولية كاملة، بدون أعذار.
-
-### **بالأرقام**
-
-- **38** مستودع — 22 Python، 7 TypeScript، 3 JavaScript
-- **168+** التزام في العام الماضي
-- **6+** بوتات تيليجرام في الإنتاج تخدم مستخدمين حقيقيين
-- **5** نماذج ذكاء اصطناعي تعمل بالتوازي
-- **4** لغات مدعومة (EN، RU، ZH، AR)
 
 ---
 
