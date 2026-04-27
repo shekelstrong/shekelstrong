@@ -283,6 +283,13 @@ Production pipeline for Telegram bots — cybersecurity, content generation, men
 
 ---
 
+## 🔄 Latest Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 🤝 Connect
 
 <div align="center">
@@ -299,4 +306,8 @@ Production pipeline for Telegram bots — cybersecurity, content generation, men
 <img src="https://komarev.com/ghpvc/?username=shekelstrong&style=flat-square&color=58a6ff" alt="Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/shekelstrong?style=flat-square&color=58a6ff&label=Followers"/>
+&nbsp;
+<a href="https://github.com/shekelstrong?tab=followers">
+<img src="https://img.shields.io/github/followers/shekelstrong?label=Follow&style=flat-square&color=58a6ff&logo=github" alt="Follow"/>
+</a>
 </div>
