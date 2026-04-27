@@ -260,22 +260,17 @@ Production pipeline for Telegram bots — cybersecurity, content generation, men
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shekelstrong/shekelstrong/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/shekelstrong/shekelstrong/output/github-snake-dark.svg" />
 </picture>
+
 ---
 
 <div align="center">
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-
-    <img src="https://github-profile-trophy.vercel.app/?username=shekelstrong&column=7&margin-w=10&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" />
-
-  </a>
-
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=shekelstrong&column=7&margin-w=10&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" />
+</a>
 </div>
 
 <div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&format=svg" alt="Quotes" />
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&format=svg" alt="Quotes" />
 </div>
 
 
@@ -286,21 +281,15 @@ Production pipeline for Telegram bots — cybersecurity, content generation, men
 
   <summary><b>❓ Questions? Ideas? Let's Talk</b></summary>
 
-  
-
   - Have a question about my projects? Open a [Discussion](https://github.com/shekelstrong/shekelstrong/discussions) — happy to help!
 
   - Want to suggest a feature or report a bug? Check the project's Issues or Discussions
 
   - Interested in collaborating? I'm open to opportunities — see [Resume](#-resume) below
 
-  
-
-  <div align="center">
-
-    <em>Open Source · Open to Contributions · Let's Build Together</em>
-
-  </div>
+<div align="center">
+<em>Open Source · Open to Contributions · Let's Build Together</em>
+</div>
 
 
 
