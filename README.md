@@ -291,6 +291,8 @@ Production pipeline for Telegram bots — cybersecurity, content generation, men
 ## 🔄 Latest Activity
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [v1.0.0 — Initial Public Release](https://github.com/shekelstrong/nemo-tracker/releases/tag/v1.0.0) in [shekelstrong/nemo-tracker](https://github.com/shekelstrong/nemo-tracker)
+2. 🚀 Published release [v1.0.0 — Initial Public Release](https://github.com/shekelstrong/ai-economy-simulator/releases/tag/v1.0.0) in [shekelstrong/ai-economy-simulator](https://github.com/shekelstrong/ai-economy-simulator)
 <!--END_SECTION:activity-->
 
 ---
