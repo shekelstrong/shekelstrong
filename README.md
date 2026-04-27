@@ -24,33 +24,109 @@
 
 ## 🇬🇧 English
 
-I build **production systems** at the intersection of AI, infrastructure, and product. My code runs real businesses — from a VPN service with paying subscribers to AI simulations with 1,000 autonomous agents making their own economic decisions.
+> *"Ship production code, not prototypes. If it doesn't earn money or serve users — it's a side project."*
 
-**38 repositories · 168+ commits · 6+ production systems**
+I build **production systems** at the intersection of AI, infrastructure, and product. Every project in my repositories serves real users or solves real business problems — from a VPN service with paying subscribers across Russia to an AI simulator where 1,000 autonomous agents build their own economy from scratch.
+
+### What I Do
+
+- **VPN SaaS (NEMO VPN)** — Full-stack: Telegram bot, payments, admin dashboard, landing page, SEO blog. Real users, real revenue, real infrastructure running on VLESS Reality protocol
+- **AI Multi-Agent Systems** — 1,000 autonomous agents powered by 5 LLM models, making independent economic decisions in real-time. No scripts, no pre-programmed behavior — pure emergent intelligence
+- **Telegram Bot Factory** — Production pipeline for mass-producing bots with shared architecture. Cybersecurity, content generation, mental health, media processing, finance — 6+ bots deployed
+- **Payment Integration** — CryptoBot, Platega, dual-currency billing (RUB + USDT) with live exchange rates
+
+### My Approach
+
+I believe in **systems over features**. A beautiful landing page means nothing if the payment gateway fails at 3 AM. I architect for reliability first, scale second, aesthetics third. My code runs on servers I manage, with Docker containers I configured, behind Nginx I tuned. Full ownership, zero excuses.
+
+### By The Numbers
+
+- **38** repositories — 22 Python, 7 TypeScript, 3 JavaScript
+- **168+** commits in the last year
+- **6+** production Telegram bots serving real users
+- **5** AI models orchestrated in parallel
+- **4** languages supported across projects (EN, RU, ZH, AR)
 
 ---
 
 ## 🇷🇺 Русский
 
-Создаю **продакшн-системы** на стыке ИИ, инфраструктуры и продукта. Мой код работает в реальных бизнесах — от VPN-сервиса с платными подписчиками до ИИ-симулятора с 1000 автономными агентами, принимающими собственные экономические решения.
+> *"Пиши продакшн-код, а не прототипы. Если код не зарабатывает деньги и не служит пользователям — это пет-проект."*
 
-**38 репозиториев · 168+ коммитов · 6+ продакшн-систем**
+Создаю **продакшн-системы** на стыке ИИ, инфраструктуры и продукта. Каждый проект в моих репозиториях обслуживает реальных пользователей или решает реальные бизнес-задачи — от VPN-сервиса с платными подписчиками по всей России до ИИ-симулятора, где 1000 автономных агентов выстраивают свою экономику с нуля.
+
+### Чем занимаюсь
+
+- **VPN SaaS (NEMO VPN)** — Full-stack: Telegram-бот, платежи, админ-панель, лендинг, SEO-блог. Реальные пользователи, реальная выручка, инфраструктура на протоколе VLESS Reality
+- **ИИ мультиагентные системы** — 1000 автономных агентов на 5 LLM-моделях, принимающих независимые экономические решения в реальном времени. Никаких скриптов — чистая эмерджентная интеллигенция
+- **Фабрика Telegram-ботов** — Продакшн-конвейер для массового производства ботов с общей архитектурой. Кибербезопасность, генерация контента, ментальное здоровье, медиа, финансы — 6+ ботов в продакшне
+- **Платёжные интеграции** — CryptoBot, Platega, двухвалютный биллинг (₽ + USDT) с живыми курсами обмена
+
+### Мой подход
+
+Верю в **системы, а не фичи**. Красивый лендинг ничего не стоит, если платёжка падает в 3 часа ночи. Проектирую сначала для надёжности, потом для масштаба, потом для эстетики. Мой код работает на серверах, которыми управляю я, в Docker-контейнерах, которые настроил я, за Nginx, который я настроил. Полная ответственность, никаких отговорок.
+
+### Цифры
+
+- **38** репозиториев — 22 Python, 7 TypeScript, 3 JavaScript
+- **168+** коммитов за последний год
+- **6+** продакшн Telegram-ботов обслуживают реальных пользователей
+- **5** ИИ-моделей работают параллельно
+- **4** языка поддерживаются в проектах (EN, RU, ZH, AR)
 
 ---
 
 ## 🇨🇳 中文
 
-我在AI、基础设施和产品的交汇处构建**生产系统**。我的代码运行着真实的业务——从拥有付费订阅用户的VPN服务，到由1000个自主AI代理做出独立经济决策的模拟系统。
+> *"发布生产代码，而非原型。如果它不赚钱、不为用户服务——那就是个玩具项目。"*
 
-**38个仓库 · 168+次提交 · 6+个生产系统**
+我在AI、基础设施和产品的交汇处构建**生产系统**。我仓库中的每个项目都服务于真实用户或解决实际业务问题——从覆盖俄罗斯付费用户的VPN服务，到由1000个自主AI代理从零开始构建经济的模拟系统。
+
+### 我的业务
+
+- **VPN SaaS (NEMO VPN)** — 全栈开发：Telegram机器人、支付系统、管理面板、着陆页、SEO博客。真实用户、真实收入，基于VLESS Reality协议运行
+- **AI多智能体系统** — 1000个自主智能体由5个大语言模型驱动，实时做出独立经济决策。无脚本、无预设行为——纯粹的涌现智能
+- **Telegram机器人工厂** — 使用共享架构批量生产机器人的生产线。网络安全、内容生成、心理健康、媒体处理、金融——6+机器人已部署
+- **支付集成** — CryptoBot、Platega、双币种计费（卢布+USDT），实时汇率
+
+### 我的理念
+
+我相信**系统优于功能**。一个精美的着陆页在凌晨3点支付网关崩溃时毫无意义。我的架构优先级：可靠性第一，扩展性第二，美观第三。我的代码运行在我管理的服务器上，在我配置的Docker容器中，经过我调优的Nginx之后。完全掌控，绝不推诿。
+
+### 数据概览
+
+- **38** 个仓库 — 22个 Python，7个 TypeScript，3个 JavaScript
+- **168+** 次年度提交
+- **6+** 个生产级 Telegram 机器人服务真实用户
+- **5** 个AI模型并行协作
+- **4** 种语言支持（EN、RU、ZH、AR）
 
 ---
 
 ## 🇸🇦 العربية
 
-أبني **أنظمة إنتاجية** عند تقاطع الذكاء الاصطناعي والبنية التحتية والمنتجات. الكود الخاص بي يشغل أعمالاً حقيقية — من خدمة VPN بمشتركين يدفعون إلى محاكي اقتصادي بـ 1000 وكيل ذكاء اصطناعي مستقل يتخذون قراراتهم الاقتصادية الخاصة.
+> *"اكتب كود إنتاجي، وليس نماذج أولية. إذا لم يكسب المال ولم يخدم المستخدمين — فهو مشروع جانبي."*
 
-**38 مستودع · 168+ التزام · 6+ أنظمة إنتاجية**
+أبني **أنظمة إنتاجية** عند تقاطع الذكاء الاصطناعي والبنية التحتية والمنتجات. كل مشروع في مستودعاتي يخدم مستخدمين حقيقيين أو يحل مشاكل أعمال فعلية — من خدمة VPN بمشتركين يدفعون عبر روسيا إلى محاكي اقتصادي حيث 1000 وكيل ذكاء اصطناعي مستقل يبنون اقتصادهم من الصفر.
+
+### ما أقوم به
+
+- **VPN SaaS (NEMO VPN)** — تطوير كامل: بوت تيليجرام، أنظمة الدفع، لوحة الإدارة، صفحة الهبوط، مدونة SEO. مستخدمون حقيقيون، إيرادات حقيقية، بنية تحتية تعمل على بروتوكول VLESS Reality
+- **أنظمة الذكاء الاصطناعي متعددة الوكلاء** — 1000 وكيل مستقل مدعوم بـ 5 نماذج لغوية كبيرة، يتخذون قرارات اقتصادية مستقلة في الوقت الفعلي. بدون نصوص — ذكاء ناشئ خالص
+- **مصنع بوتات تيليجرام** — خط إنتاج لبوتات بنظام مشترك. الأمن السيبراني، توليد المحتوى، الصحة النفسية، الوسائط، المالية — 6+ بوتات في الإنتاج
+- **تكامل المدفوعات** — CryptoBot، Platega، فوترة ثنائية العملة (روبل + USDT) بأسعار صرف حية
+
+### منهجي**
+
+أؤمن بـ **الأنظمة على الميزات**. صفحة هبوط جميلة لا قيمة لها إذا كانت بوابة الدفع تعطل في الثالثة صباحاً. أصمم أولاً للموثوقية، ثانياً للتوسع، ثالثاً للجمال. الكود الخاص بي يعمل على خوادم أديرها، في حاويات Docker أنا من أعددتها، خلف Nginx قمت بضبطه. مسؤولية كاملة، بدون أعذار.
+
+### **بالأرقام**
+
+- **38** مستودع — 22 Python، 7 TypeScript، 3 JavaScript
+- **168+** التزام في العام الماضي
+- **6+** بوتات تيليجرام في الإنتاج تخدم مستخدمين حقيقيين
+- **5** نماذج ذكاء اصطناعي تعمل بالتوازي
+- **4** لغات مدعومة (EN، RU، ZH، AR)
 
 ---
 
@@ -61,21 +137,21 @@ I build **production systems** at the intersection of AI, infrastructure, and pr
 <td width="50%">
 
 ### 🏛 [AI Economy Simulator](https://github.com/shekelstrong/ai-economy-simulator)
-`Python` `FastAPI` `Next.js` `PostgreSQL`
+`Python` `FastAPI` `Next.js` `PostgreSQL` `Redis`
 
-**1,000 autonomous AI agents** simulating a real-time economy. No scripts — agents independently trade, create institutions, and adapt to market conditions. 5 AI models, 6 agent roles, 12 economic sectors. Multilingual UI (EN/ZH/AR/RU).
+**1,000 autonomous AI agents** simulating a real-time economy. No scripts — agents independently trade, create institutions, and adapt. 5 AI models, 6 agent roles, 12 economic sectors. Multilingual UI (EN/ZH/AR/RU).
 
-🌐 Open Source · MIT
+🌐 Open Source · MIT · [v1.0.0](https://github.com/shekelstrong/ai-economy-simulator/releases/tag/v1.0.0)
 
 </td>
 <td width="50%">
 
 ### 📊 [Nemo Tracker](https://github.com/shekelstrong/nemo-tracker)
-`Python` `FastAPI` `PostgreSQL` `Redis`
+`Python` `FastAPI` `PostgreSQL` `Redis` `Chart.js` `Leaflet.js`
 
-Full **VPN business management** platform for Marzban — analytics, billing, device tracking, geolocation, revenue forecasting, churn prediction, reseller management, white-label branding.
+Full **VPN business management** for Marzban — real-time analytics, geolocation, billing (RUB+USDT), revenue forecasting, churn prediction, reseller panel, white-label branding, Telegram Mini App.
 
-🌐 Open Source · MIT
+🌐 Open Source · MIT · [v1.0.0](https://github.com/shekelstrong/nemo-tracker/releases/tag/v1.0.0)
 
 </td>
 </tr>
@@ -85,7 +161,7 @@ Full **VPN business management** platform for Marzban — analytics, billing, de
 ### 🔒 NEMO VPN Bot
 `Python` `aiogram` `PostgreSQL` `Marzban`
 
-**Production VPN service** — Telegram bot with subscriptions, payments (CryptoBot + Platega), referral system, multi-server management, auto-renewal. Real users, real revenue.
+**Production VPN service** — subscriptions, payments (CryptoBot + Platega), referrals, multi-server management, auto-renewal. Real users, real revenue across Russia.
 
 ⚓ [Try Free](https://t.me/nemo_vpn_bot?start=6318513424)
 
@@ -95,9 +171,9 @@ Full **VPN business management** platform for Marzban — analytics, billing, de
 ### 🤖 Bot Factory
 `Python` `aiogram` `Shared Architecture`
 
-Mass-produced Telegram bots: cybersecurity, content generation, mental health, media processing, freelance finance. Shared architecture for rapid deployment.
+Production pipeline for Telegram bots — cybersecurity, content generation, mental health, media processing, freelance finance. Shared codebase for rapid deployment.
 
-5+ production bots
+5+ bots in production
 
 </td>
 </tr>
@@ -112,9 +188,9 @@ Mass-produced Telegram bots: cybersecurity, content generation, mental health, m
 
 - **vpn_bot** — Core Telegram bot, subscriptions, payments, referrals, multi-server
 - **nemo-vpn-webapp** — Telegram Mini App for VPN management
-- **nemo-landing** — [Dark-themed landing page](https://github.com/shekelstrong/nemo-landing) · Next.js + Tailwind
-- **nemo-blog** — [SEO blog](https://github.com/shekelstrong/nemo-blog) on digital security · Next.js SSG
-- **nemovpn-design** — Design system with "brutalist underground" aesthetic
+- **[nemo-landing](https://github.com/shekelstrong/nemo-landing)** — Dark-themed landing page · Next.js + Tailwind
+- **[nemo-blog](https://github.com/shekelstrong/nemo-blog)** — SEO blog on digital security · Next.js SSG · [Live →](https://nemo-blog.vercel.app)
+- **nemovpn-design** — Design system, "brutalist underground" aesthetic
 - **nemo-team-docs** — Internal team knowledge base (Obsidian)
 
 </details>
@@ -123,7 +199,7 @@ Mass-produced Telegram bots: cybersecurity, content generation, mental health, m
 <summary><b>🤖 AI & Automation</b></summary>
 
 - **AI-AGENCY-OPENCLAW** — AI agency platform on OpenClaw (TypeScript)
-- **ai-crm-telegram** — AI-powered CRM for Telegram sales (Python)
+- **ai-crm-telegram** — AI-powered CRM for automated Telegram sales (Python)
 - **nexus_ai_bot** ⭐ — AI Telegram assistant (Python)
 
 </details>
@@ -131,11 +207,11 @@ Mass-produced Telegram bots: cybersecurity, content generation, mental health, m
 <details>
 <summary><b>📦 Other Projects</b></summary>
 
+- **[ermak-site](https://github.com/shekelstrong/ermak-site)** — Modern web presence (TypeScript, Next.js)
 - **ermak-bot** — Telegram bot (Python, active development)
-- **ermak-site** — Web presence (TypeScript)
 - **Trading** — Trading bot (TypeScript)
 - **platega-io-nedopekin** — Payment integration library (Python)
-- **nanobananapro** / **nano-banana-tg-bot** ⭐ — Telegram bot + backend (Python)
+- **[tgbottrue](https://github.com/shekelstrong/tgbottrue)** — Telegram bot (Python)
 
 </details>
 
