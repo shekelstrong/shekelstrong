@@ -100,52 +100,20 @@ I believe in **systems over features**. A beautiful landing page means nothing i
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🏛 [AI Economy Simulator](https://github.com/shekelstrong/ai-economy-simulator)
-`Python` `FastAPI` `Next.js` `PostgreSQL` `Redis`
-
-**1,000 autonomous AI agents** simulating a real-time economy. No scripts — agents independently trade, create institutions, and adapt. 5 AI models, 6 agent roles, 12 economic sectors. Multilingual UI (EN/ZH/AR/RU).
-
-🌐 Open Source · MIT · [v1.0.0](https://github.com/shekelstrong/ai-economy-simulator/releases/tag/v1.0.0)
-
-</td>
-<td width="50%">
-
-### 📊 [Nemo Tracker](https://github.com/shekelstrong/nemo-tracker)
-`Python` `FastAPI` `PostgreSQL` `Redis` `Chart.js` `Leaflet.js`
-
-Full **VPN business management** for Marzban — real-time analytics, geolocation, billing (RUB+USDT), revenue forecasting, churn prediction, reseller panel, white-label branding, Telegram Mini App.
-
-🌐 Open Source · MIT · [v1.0.0](https://github.com/shekelstrong/nemo-tracker/releases/tag/v1.0.0)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔒 NEMO VPN Bot
-`Python` `aiogram` `PostgreSQL` `Marzban`
-
-**Production VPN service** — subscriptions, payments (CryptoBot + Platega), referrals, multi-server management, auto-renewal. Real users, real revenue across Russia.
-
-⚓ [Try Free](https://t.me/nemo_vpn_bot?start=6318513424)
-
-</td>
-<td width="50%">
-
-### 🤖 Bot Factory
-`Python` `aiogram` `Shared Architecture`
-
-Production pipeline for Telegram bots — cybersecurity, content generation, mental health, media processing, freelance finance. Shared codebase for rapid deployment.
-
-5+ bots in production
-
-</td>
-</tr>
-</table>
+<div align="center">
+<a href="https://github.com/shekelstrong/ai-economy-simulator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shekelstrong&repo=ai-economy-simulator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/shekelstrong/nemo-tracker">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shekelstrong&repo=nemo-tracker&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/shekelstrong/nemo-blog">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shekelstrong&repo=nemo-blog&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/shekelstrong/nemo-landing">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shekelstrong&repo=nemo-landing&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+</div>
 
 ---
 
@@ -187,20 +155,9 @@ Production pipeline for Telegram bots — cybersecurity, content generation, men
 
 ## ⚡ Tech Stack
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Telegram-2AABEE?style=flat-square&logo=telegram&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,ts,postgres,redis,docker,nginx,linux,tailwind,vercel&theme=dark" alt="Tech Stack" />
+</div>
 
 ---
 
@@ -265,9 +222,6 @@ Production pipeline for Telegram bots — cybersecurity, content generation, men
 
 ---
 
-
----
-
 ## 💼 Resume
 
 <details>
@@ -318,3 +272,5 @@ Production pipeline for Telegram bots — cybersecurity, content generation, men
 <img src="https://img.shields.io/github/followers/shekelstrong?label=Follow&style=flat-square&color=58a6ff&logo=github" alt="Follow"/>
 </a>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b2e&height=120&section=footer"/>
