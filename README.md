@@ -264,9 +264,10 @@ Production pipeline for Telegram bots — cybersecurity, content generation, men
 ---
 
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=shekelstrong&column=7&margin-w=10&no-frame=true&no-bg=true" alt="GitHub Profile Trophy" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shekelstrong&theme=github_dark" alt="Profile Details" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shekelstrong&theme=github_dark" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shekelstrong&theme=github_dark" alt="Most Commit Language" />
 </div>
 
 <div align="center">
