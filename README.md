@@ -106,41 +106,30 @@ I believe in **systems over features**. A beautiful landing page means nothing i
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Trophy
 
 <div align="center">
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shekelstrong&theme=github_dark"/>
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shekelstrong&theme=github_dark"/>
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shekelstrong&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shekelstrong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekelstrong&layout=compact&theme=tokyonight&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shekelstrong&theme=tokyonight" alt="Streak" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shekelstrong&theme=tokyonight" alt="Streak" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shekelstrong&theme=github_dark&utc_offset=3" width="60%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shekelstrong&theme=onedark&no-frame=true&margin-w=10&column=7" alt="Trophy" width="100%"/>
 
 </div>
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shekelstrong&theme=tokyonight&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-## 🏆 Trophy
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shekelstrong&theme=onedark&no-frame=true&margin-w=10&column=4" alt="Trophy"/>
 
 </div>
 
