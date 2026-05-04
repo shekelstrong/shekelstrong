@@ -110,14 +110,21 @@ I believe in **systems over features**. A beautiful landing page means nothing i
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shekelstrong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekelstrong&layout=compact&theme=tokyonight&langs_count=10"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shekelstrong&theme=github_dark"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shekelstrong&theme=github_dark"/>
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shekelstrong&theme=github_dark"/>
 
 </div>
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=shekelstrong&theme=tokyonight" alt="Streak" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shekelstrong&theme=github_dark&utc_offset=3" width="60%"/>
 
 </div>
 
