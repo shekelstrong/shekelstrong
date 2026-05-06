@@ -148,8 +148,8 @@ I believe in **systems over features**. A beautiful landing page means nothing i
 ## 🔄 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/shekelstrong/ai-economy-simulator/pull/1) in [shekelstrong/ai-economy-simulator](https://github.com/shekelstrong/ai-economy-simulator)
-2. 💪 Opened PR [#1](https://github.com/shekelstrong/ai-economy-simulator/pull/1) in [shekelstrong/ai-economy-simulator](https://github.com/shekelstrong/ai-economy-simulator)
+1. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/shekelstrong/nemo-landing/releases/tag/v1.0.0) in [shekelstrong/nemo-landing](https://github.com/shekelstrong/nemo-landing)
+2. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/shekelstrong/nemo-vpn-webapp/releases/tag/v1.0.0) in [shekelstrong/nemo-vpn-webapp](https://github.com/shekelstrong/nemo-vpn-webapp)
 <!--END_SECTION:activity-->
 
 ---
