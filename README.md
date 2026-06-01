@@ -148,7 +148,7 @@ I believe in **systems over features**. A beautiful landing page means nothing i
 ## 🔄 Latest Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/shekelstrong/nemo-landing/releases/tag/v1.0.0) in [shekelstrong/nemo-landing](https://github.com/shekelstrong/nemo-landing)
+1. 🚀 Published release [v1.0.0 - Telegram Bot API MCP Server](https://github.com/shekelstrong/telegram-bot-api-mcp/releases/tag/v1.0.0) in [shekelstrong/telegram-bot-api-mcp](https://github.com/shekelstrong/telegram-bot-api-mcp)
 2. 🚀 Published release [v1.0.0 — Initial Release](https://github.com/shekelstrong/nemo-vpn-webapp/releases/tag/v1.0.0) in [shekelstrong/nemo-vpn-webapp](https://github.com/shekelstrong/nemo-vpn-webapp)
 <!--END_SECTION:activity-->
 
