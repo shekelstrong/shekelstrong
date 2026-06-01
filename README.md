@@ -24,77 +24,51 @@
 
 > *"Ship production code, not prototypes. If it doesn't earn money or serve users — it's a side project."*
 
-I build **production systems** at the intersection of AI, infrastructure, and product. Every project in my repositories serves real users or solves real business problems — from a VPN service with paying subscribers to an AI simulator where 1,000 autonomous agents build their own economy from scratch.
+I build **production systems** at the intersection of AI, infrastructure, and product. Every project in my repositories serves real users or solves real business problems.
 
-### About
+### 🚀 Featured Projects
 
-**Python Developer · System Architect · AI Products · VPN & Telecom SaaS**
+**[nemo-moderation-bot](https://github.com/shekelstrong/nemo-moderation-bot)** — Telegram AI moderation bot with games, achievements, multi-language support (RU/EN/ZH), cross-chat ban, and URL filtering **[nexus_ai_bot](https://github.com/shekelstrong/nexus_ai_bot)** — AI bot for text, image & video generation via OpenRouter & FAL AI with subscription billing **[nemo-esim-bot](https://github.com/shekelstrong/nemo-esim-bot)** — eSIM sales bot with CryptoBot payments, 5-level referral system, and VPN bundle **[vpn_bot](https://github.com/shekelstrong/vpn_bot)** — NEMO VPN Telegram bot for subscription management via Marzban **[telegram-bot-api-mcp](https://github.com/shekelstrong/telegram-bot-api-mcp)** — MCP server with 18 Telegram Bot API tools for AI coding agents **[ai-economy-simulator](https://github.com/shekelstrong/ai-economy-simulator)** — 1,000 autonomous agents building their own economy in real-time
 
-Contact: [@nedopekin](https://t.me/nedopekin) on Telegram
+<details>
+<summary><b>📦 More Projects</b></summary>
 
-### Featured Projects
+**[nemo-vpn-webapp](https://github.com/shekelstrong/nemo-vpn-webapp)** — Mini App for VPN subscription management **[nemo-tracker](https://github.com/shekelstrong/nemo-tracker)** — VPN analytics & admin dashboard for Marzban **[nemo-blog](https://github.com/shekelstrong/nemo-blog)** — SEO blog for NEMO VPN **[nemo-landing](https://github.com/shekelstrong/nemo-landing)** — Landing page for NEMO VPN **[ermak-bot](https://github.com/shekelstrong/ermak-bot)** — Store bot with products, promos, Supabase backend **[ermak-site](https://github.com/shekelstrong/ermak-site)** — ERMAK web presence, Next.js + Tailwind **[glass-connect](https://github.com/shekelstrong/glass-connect)** — Interactive connectivity map
 
-<div align="center">
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| [**nemo-esim-bot**](https://github.com/shekelstrong/nemo-esim-bot) | Telegram bot for selling international eSIM cards with CryptoBot payments, 5-level referral system, IKEv2/AmneziaWG VPN bundle | Python, FastAPI, Aiogram 3.x, PostgreSQL |
-| [**nexus_ai_bot**](https://github.com/shekelstrong/nexus_ai_bot) | Telegram AI bot for text, image & video generation. Supports GPT, Gemini, Flux, Kling, Veo, Wan via OpenRouter & FAL AI. Subscription & token payments via Platega | Python, Aiogram |
-| [**vpn_bot**](https://github.com/shekelstrong/vpn_bot) | NEMO VPN Telegram bot for managing VPN subscriptions with Marzban panel integration | Python, Aiogram |
-| [**nemo-vpn-webapp**](https://github.com/shekelstrong/nemo-vpn-webapp) | NEMO VPN Mini App (Telegram Web App) for subscription management | JS, Telegram Mini App |
-| [**ermak-bot**](https://github.com/shekelstrong/ermak-bot) | Telegram bot for ERMAK store — product management, promotions, promo codes with Supabase backend | Python, Supabase |
-| [**ermak-site**](https://github.com/shekelstrong/ermak-site) | Modern web presence for ERMAK, built with Next.js, TypeScript & Tailwind CSS on Vercel | Next.js, TypeScript, Tailwind CSS |
-| [**nemo-blog**](https://github.com/shekelstrong/nemo-blog) | NEMO VPN SEO Blog | Next.js, SSG |
-| [**nemo-landing**](https://github.com/shekelstrong/nemo-landing) | One-page NEMO VPN landing page | Next.js, Tailwind CSS |
-| [**nemo-tracker**](https://github.com/shekelstrong/nemo-tracker) | Advanced VPN user analytics & admin dashboard for Marzban | Python, FastAPI |
-| [**ai-economy-simulator**](https://github.com/shekelstrong/ai-economy-simulator) | AI-powered economic simulator with 1000 autonomous agents | Python, LLM |
-| [**nemo-moderation-bot**](https://github.com/shekelstrong/nemo-moderation-bot) | Telegram AI moderation bot — anti-spam, games, achievements, cross-chat ban, multi-language (RU/EN/ZH) | Python, Aiogram 3.x, Supabase |
-| [**telegram-bot-api-mcp**](https://github.com/shekelstrong/telegram-bot-api-mcp) | MCP server providing 18 Telegram Bot API tools for AI coding agents (Claude Code, OpenCode, Hermes) | Python, MCP, Pydantic |
-| [**glass-connect**](https://github.com/shekelstrong/glass-connect) | Interactive connectivity map project | Web |
-
-</div>
+</details>
 
 ### What I Do
 
-- **VPN SaaS (NEMO VPN)** — Full-stack: Telegram bot, payments, admin dashboard, landing page, SEO blog. Real users, real revenue, real infrastructure
-- **AI Multi-Agent Systems** — 1,000 autonomous agents powered by 5 LLM models, making independent economic decisions in real-time
-- **Telegram Bot Factory** — Production pipeline for mass-producing bots with shared architecture
-- **Payment Integration** — CryptoBot, Platega, dual-currency billing (RUB + USDT) with live exchange rates
-
-### My Approach
-
-I believe in **systems over features**. A beautiful landing page means nothing if the payment gateway fails at 3 AM. I architect for reliability first, scale second, aesthetics third.
+- 🔒 **VPN SaaS (NEMO VPN)** — Full-stack: Telegram bot, payments, admin, landing, SEO
+- 🤖 **AI Multi-Agent Systems** — 1,000 autonomous agents on 5 LLM models
+- ⚙️ **Telegram Bot Factory** — Production pipeline for mass-producing bots
+- 💰 **Payment Integration** — CryptoBot, Platega, dual-currency (₽ + USDT)
 
 ---
 
 ## 🇷🇺 Русский
 
-> *"Пиши продакшн-код, а не прототипы. Если код не зарабатывает деньги и не служит пользователям — это пет-проект."*
+> *"Пиши продакшн-код, а не прототипы. Если код не зарабатывает и не служит пользователям — это пет-проект."*
 
-Создаю **продакшн-системы** на стыке ИИ, инфраструктуры и продукта. Каждый проект в моих репозиториях обслуживает реальных пользователей или решает реальные бизнес-задачи.
+Создаю **продакшн-системы** на стыке ИИ, инфраструктуры и продукта. Каждый проект обслуживает реальных пользователей.
 
-### Проекты
+### 🚀 Проекты
 
-| Проект | Описание | Стек |
-|:-------|:---------|:-----|
-| [**nemo-esim-bot**](https://github.com/shekelstrong/nemo-esim-bot) | Бот для продажи eSIM с CryptoBot, 5-уровневой реферальной системой и VPN-пакетом | Python, FastAPI, Aiogram 3.x, PostgreSQL |
-| [**nexus_ai_bot**](https://github.com/shekelstrong/nexus_ai_bot) | AI-бот для генерации текста, изображений и видео. GPT, Gemini, Flux и другие модели | Python, Aiogram |
-| [**vpn_bot**](https://github.com/shekelstrong/vpn_bot) | NEMO VPN бот для управления подписками через Marzban | Python, Aiogram |
-| [**nemo-vpn-webapp**](https://github.com/shekelstrong/nemo-vpn-webapp) | Mini App для управления VPN-подпиской | JS, Telegram Mini App |
-| [**ermak-bot**](https://github.com/shekelstrong/ermak-bot) | Бот магазина ERMAK — товары, акции, промокоды на Supabase | Python, Supabase |
-| [**ermak-site**](https://github.com/shekelstrong/ermak-site) | Сайт ERMAK на Next.js, TypeScript и Tailwind CSS | Next.js, TypeScript, Tailwind CSS |
-| [**nemo-blog**](https://github.com/shekelstrong/nemo-blog) | SEO-блог NEMO VPN | Next.js, SSG |
-| [**nemo-landing**](https://github.com/shekelstrong/nemo-landing) | Одностраничный лендинг NEMO VPN | Next.js, Tailwind CSS |
-| [**nemo-tracker**](https://github.com/shekelstrong/nemo-tracker) | Аналитика и админ-панель для Marzban | Python, FastAPI |
-| [**ai-economy-simulator**](https://github.com/shekelstrong/ai-economy-simulator) | Экономический симулятор с 1000 AI-агентов | Python, LLM |
-| [**glass-connect**](https://github.com/shekelstrong/glass-connect) | Интерактивная карта связей | Web |
+**[nemo-moderation-bot](https://github.com/shekelstrong/nemo-moderation-bot)** — AI-модерация, игры, ачивки, мультиязычность (RU/EN/ZH), кросс-бан **[nexus_ai_bot](https://github.com/shekelstrong/nexus_ai_bot)** — AI-бот для генерации текста, изображений и видео через OpenRouter & FAL AI **[nemo-esim-bot](https://github.com/shekelstrong/nemo-esim-bot)** — Продажа eSIM с CryptoBot, 5-уровневая рефералка, VPN-пакет **[vpn_bot](https://github.com/shekelstrong/vpn_bot)** — NEMO VPN бот для управления подписками через Marzban **[telegram-bot-api-mcp](https://github.com/shekelstrong/telegram-bot-api-mcp)** — MCP-сервер с 18 инструментами Telegram Bot API для ИИ-агентов **[ai-economy-simulator](https://github.com/shekelstrong/ai-economy-simulator)** — 1000 AI-агентов строят экономику в реальном времени
+
+<details>
+<summary><b>📦 Ещё проекты</b></summary>
+
+**[nemo-vpn-webapp](https://github.com/shekelstrong/nemo-vpn-webapp)** — Mini App для управления VPN-подпиской **[nemo-tracker](https://github.com/shekelstrong/nemo-tracker)** — Аналитика и админ-панель для Marzban **[nemo-blog](https://github.com/shekelstrong/nemo-blog)** — SEO-блог NEMO VPN **[nemo-landing](https://github.com/shekelstrong/nemo-landing)** — Лендинг NEMO VPN **[ermak-bot](https://github.com/shekelstrong/ermak-bot)** — Бот магазина ERMAK на Supabase **[ermak-site](https://github.com/shekelstrong/ermak-site)** — Сайт ERMAK, Next.js + Tailwind **[glass-connect](https://github.com/shekelstrong/glass-connect)** — Интерактивная карта связей
+
+</details>
 
 ### Чем занимаюсь
 
-- **VPN SaaS (NEMO VPN)** — Full-stack: Telegram-бот, платежи, админ-панель, лендинг, SEO-блог
-- **ИИ мультиагентные системы** — 1000 автономных агентов на 5 LLM-моделях
-- **Фабрика Telegram-ботов** — Продакшн-конвейер для массового производства ботов с общей архитектурой
-- **Платёжные интеграции** — CryptoBot, Platega, двухвалютный биллинг (₽ + USDT)
+- 🔒 **VPN SaaS (NEMO VPN)** — Full-stack: бот, платежи, админка, лендинг, SEO
+- 🤖 **ИИ мультиагентные системы** — 1000 автономных агентов на 5 LLM-моделях
+- ⚙️ **Фабрика Telegram-ботов** — Продакшн-конвейер для массового производства
+- 💰 **Платёжные интеграции** — CryptoBot, Platega, двухвалютный биллинг (₽ + USDT)
 
 ---
 
@@ -108,7 +82,7 @@ I believe in **systems over features**. A beautiful landing page means nothing i
 
 ---
 
-## 📈 GitHub Stats & Trophy
+## 📈 Stats
 
 <div align="center">
 
@@ -156,24 +130,6 @@ I believe in **systems over features**. A beautiful landing page means nothing i
 
 ---
 
-## 💬 Support
-
-<details>
-
-  <summary><b>❓ Questions? Ideas? Let's Talk</b></summary>
-
-  - Have a question about my projects? Open a [Discussion](https://github.com/shekelstrong/shekelstrong/discussions) — happy to help!
-  - Want to suggest a feature or report a bug? Check the project's Issues or Discussions
-  - Interested in collaborating? I'm open to opportunities
-
-<div align="center">
-<em>Open Source · Open to Contributions · Let's Build Together</em>
-</div>
-
-</details>
-
----
-
 ## 💼 Resume
 
 <details>
@@ -194,27 +150,11 @@ I believe in **systems over features**. A beautiful landing page means nothing i
 
 ---
 
-## 🤝 Connect
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/%F0%9F%92%AC_Dev_Channel-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+i1v0vccaNNY0M2Iy)
-[![NEMO VPN](https://img.shields.io/badge/%E2%9A%93_Try_VPN_Free-6366f1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nemo_vpn_bot?start=6318513424)
-[![Contact](https://img.shields.io/badge/%F0%9F%93%A7_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:business.nedopekin@gmail.com)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=shekelstrong&style=flat-square&color=58a6ff" alt="Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/shekelstrong?style=flat-square&color=58a6ff&label=Followers"/>
-&nbsp;
-<a href="https://github.com/shekelstrong?tab=followers">
-<img src="https://img.shields.io/github/followers/shekelstrong?label=Follow&style=flat-square&color=58a6ff&logo=github" alt="Follow"/>
-</a>
 
 </div>
 
