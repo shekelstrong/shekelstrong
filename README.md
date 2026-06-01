@@ -48,6 +48,8 @@ Contact: [@nedopekin](https://t.me/nedopekin) on Telegram
 | [**nemo-landing**](https://github.com/shekelstrong/nemo-landing) | One-page NEMO VPN landing page | Next.js, Tailwind CSS |
 | [**nemo-tracker**](https://github.com/shekelstrong/nemo-tracker) | Advanced VPN user analytics & admin dashboard for Marzban | Python, FastAPI |
 | [**ai-economy-simulator**](https://github.com/shekelstrong/ai-economy-simulator) | AI-powered economic simulator with 1000 autonomous agents | Python, LLM |
+| [**nemo-moderation-bot**](https://github.com/shekelstrong/nemo-moderation-bot) | Telegram AI moderation bot — anti-spam, games, achievements, cross-chat ban, multi-language (RU/EN/ZH) | Python, Aiogram 3.x, Supabase |
+| [**telegram-bot-api-mcp**](https://github.com/shekelstrong/telegram-bot-api-mcp) | MCP server providing 18 Telegram Bot API tools for AI coding agents (Claude Code, OpenCode, Hermes) | Python, MCP, Pydantic |
 | [**glass-connect**](https://github.com/shekelstrong/glass-connect) | Interactive connectivity map project | Web |
 
 </div>
@@ -117,13 +119,15 @@ I believe in **systems over features**. A beautiful landing page means nothing i
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shekelstrong&theme=tokyonight" alt="Streak" height="170"/>
+<img src="https://streak-stats.demolab.com?user=shekelstrong&theme=tokyonight" alt="Streak" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shekelstrong&theme=onedark&no-frame=true&margin-w=10&column=7" alt="Trophy" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shekelstrong&theme=onestar&no-frame=true&margin-w=10&column=7&no-bg=true" alt="Trophy" width="100%"/>
+
+> ⚠️ If trophies don't load, [deploy your own fork](https://github.com/shekelstrong/github-profile-trophy) to Vercel for free.
 
 </div>
 
