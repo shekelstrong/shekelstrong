@@ -125,9 +125,7 @@ I believe in **systems over features**. A beautiful landing page means nothing i
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shekelstrong&theme=onestar&no-frame=true&margin-w=10&column=7&no-bg=true" alt="Trophy" width="100%"/>
-
-> ⚠️ If trophies don't load, [deploy your own fork](https://github.com/shekelstrong/github-profile-trophy) to Vercel for free.
+<img src="https://github-profile-trophy-dt9n.vercel.app/?username=shekelstrong&theme=onestar&no-frame=true&margin-w=10&column=7&no-bg=true" alt="Trophy" width="100%"/>
 
 </div>
 
