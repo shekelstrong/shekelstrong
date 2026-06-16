@@ -13,8 +13,8 @@ Animated header — iOS 27 Liquid Glass aesthetic on dark background.
 <!-- Premium glass-morphism badges with subtle iOS 27 frosted feel -->
 
 [![Telegram](https://img.shields.io/badge/Dev_Channel-2AABEE?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a)](https://t.me/+i1v0vccaNNY0M2Iy)
-[![Telegram Mini App](https://img.shields.io/badge/Buildo_TG-6366f1?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a)](https://t.me/buildo_bot)
-[![Website](https://img.shields.io/badge/buildo.su-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a0a)](https://buildo.su)
+[![Telegram Mini App](https://img.shields.io/badge/Buildo_TG-6366f1?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a)](https://t.me/nedopekin)
+[![Website](https://img.shields.io/badge/buildo.su-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0a0a0a)](https://t.me/nedopekin)
 [![Contact](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:business.nedopekin@gmail.com)
 
 </div>
@@ -186,7 +186,7 @@ Every product you see in my repos ships to real users, runs in production, and s
 <div align="center">
 
 [![Telegram Dev Channel](https://img.shields.io/badge/Telegram_Channel-2AABEE?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a)](https://t.me/+i1v0vccaNNY0M2Iy)
-[![Telegram Chat](https://img.shields.io/badge/Direct_Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a)](https://t.me/NedopekinBIO)
+[![Telegram Chat](https://img.shields.io/badge/Direct_Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0a0a)](https://t.me/nedopekin)
 [![Email](https://img.shields.io/badge/business.nedopekin@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:business.nedopekin@gmail.com)
 [![GitHub](https://img.shields.io/badge/More_Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/shekelstrong?tab=repositories)
 
